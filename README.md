@@ -10,7 +10,7 @@
 - In this data analytics project, I showcase my strong data processing and data visualization skills through a comprehensive exploration of HR Distribution data for the Western United States spanning from 2000 to 2020. This project involved working with a substantial dataset, comprising over 22,000 records.
 
 <div align=center>
-<img src="https://github.com/FywOo02/HR-Employee-Distribution-Analysis/image_src/report.png">
+<img src="https://github.com/FywOo02/HR-Employee-Distribution-Analysis/blob/main/image_src/report.png">
 </div>
 
 ## Project Tech Stack
@@ -18,7 +18,7 @@
   - Data VisualizationPowerBI
   - IDE: DataGrip
 <div align=center>
-<img src="https://github.com/FywOo02/HR-Employee-Distribution-Analysis/image_src/icon.png">
+<img src="https://github.com/FywOo02/HR-Employee-Distribution-Analysis/blob/main/image_src/icon.png">
 </div>
 
 
@@ -33,7 +33,7 @@
   - Utilizing Power BI, I crafted interactive and visually engaging dashboards that seamlessly integrated data from multiple sources. These visualizations provide transparent insights into the HR distribution trends across the Western United States over two decades.
 
 <div align=center>
-<img src="https://github.com/FywOo02/HR-Employee-Distribution-Analysis/image_src/workplace.png">
+<img src="https://github.com/FywOo02/HR-Employee-Distribution-Analysis/blob/main/image_src/workplace.png">
 </div>
 
 ## Data Insights
